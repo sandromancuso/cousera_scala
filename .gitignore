@@ -1,0 +1,13 @@
+.classpath
+.project
+.settings/
+
+.idea/
+.idea_modules/
+*.iml
+target/
+
+*.zip
+*.mp4
+
+lib_managed/
